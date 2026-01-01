@@ -12,3 +12,7 @@ NOTE: JSX is more strict than  normal HTML.  All elements need a closing tag.  <
 E.g  </br>
 <input placeholder="Send a message to Chatbot" size="30"></input>  </br>
 But if you not goona put anything inside or nothing inside our element , you can use a “self closing tag” like this <input /> </br>
+
+
+✔️ What is Babel ?  </br>
+Babel is known as a “Javascript compiler”. It basically translate other languages into javascript. </br>

@@ -19,3 +19,7 @@ Babel is known as a “Javascript compiler”. It basically translate other lang
 Why do we need Babel: </br>
 When using “React”, we actually don’t use normal javascript, we use an “enhanced version of javascript” called JSX.  </br>
 JSX stands for “Javascript  XML”. Is the same as javascript but we can also write HTML directly in our javascript code.	</br>
+
+
+
+**COMPONENTS, PROPS, SHORTCUTS IN REACT - LESSON 2** </br>

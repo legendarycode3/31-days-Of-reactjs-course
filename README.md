@@ -1,7 +1,7 @@
 ## MASTERING REACTJS COURSE WITH EXCERCISES <br/>
 
 
-**REACT BASICs, JSX  --  LESSON**  </br>
+➡️ **REACT BASICs, JSX  --  LESSON**  </br>
 ✔️ What is Reactjs ?  </br>
 React is an external library that helps us create websites easier. </br>
 
@@ -23,7 +23,7 @@ JSX stands for “Javascript  XML”. Is the same as javascript but we can also 
 
 
 
-**COMPONENTS, PROPS, SHORTCUTS IN REACT - LESSON 2** </br>
+➡️ **COMPONENTS, PROPS, SHORTCUTS IN REACT - LESSON 2** </br>
 ✔️ What is Component ? </br>
 Is one of the most important features of Reactjs called “Component”. </br>
 A component is just a piece of  a website.  </br>
@@ -47,6 +47,6 @@ Some “shortcuts” that are commonly used in React, they include </br>
 
 
 
-**STATE, EVENT HANDLERS - LESSON 3** </br>
+➡️ **STATE, EVENT HANDLERS - LESSON 3** </br>
 ✔️ What Is State ?  </br>
 State is a built-in object that allows components to store and manage dynamic data that changes over time. State helps us make a website interative. </br>

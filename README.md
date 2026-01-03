@@ -31,3 +31,11 @@ Components are designed to be reusable(using attribute). </br>
 Components lets us create our own  HTML elements. </br>
 
 E.g: Example when using a component in a website  </br>
+function ChatInput() { </br>
+            return ( </br>
+                <> </br>
+                    <input placeholder="Send a message to Chatbot" size="30"></input> </br>
+                    <button>Send</button>
+                </> </br>
+            ); </br>
+ } </br>

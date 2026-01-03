@@ -36,3 +36,4 @@ NOTE: We can have  “components” inside of a component. It helps us split our
 ✔️ What is Props ?  
 Every “component function”, gets one parameter called props. 
 The “props”  parameter is an object and it will contain all the attributes that we give to any component. 
+Props, is the short form for properties.

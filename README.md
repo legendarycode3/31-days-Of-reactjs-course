@@ -1,7 +1,7 @@
 ## MASTERING REACTJS COURSE WITH EXCERCISES <br/>
 
 
-**REACT BASICs, JSX**
+**REACT BASICs, JSX  --  LESSON**  </br>
 ✔️ What is Reactjs ?  </br>
 React is an external library that helps us create websites easier. </br>
 
@@ -31,7 +31,7 @@ To create a “component” in React, we goona use a function. </br>
 Components are designed to be reusable(using attribute). </br>
 Components lets us create our own  HTML elements. </br>
 
-NOTE: We can have  “components” inside of a component. It helps us split our website , 		into smaller & smaller components or smaller and smaller pieces. </br>
+NOTE: We can have  “components” inside of a component. It helps us split our website , into smaller & smaller components or smaller and smaller pieces. </br>
 ✔️ Fragment: In Reactjs, we use it to group elements together. It helps us not to have extra div, if we don’t. </br>
 
 ✔️ What is Props ?  </br>
@@ -48,3 +48,4 @@ Some “shortcuts” that are commonly used in React, they include </br>
 
 
 **STATE, EVENT HANDLERS, CREATE THE CHATBOT FEATURES - LESSON 3** </br>
+

@@ -30,29 +30,5 @@ To create a “component” in React, we goona use a function. </br>
 Components are designed to be reusable(using attribute). </br>
 Components lets us create our own  HTML elements. </br>
 
-
 NOTE: We can have  “components” inside of a component. It helps us split our website , 		into smaller & smaller components or smaller and smaller pieces. </br>
-E.g: </br>
-function App() {
-        return ( </br>
-          <>
-            <ChatInput></ChatInput>
-            <ChatMessage 
-              message="hello chatbot" 
-              sender="user" 
-            />
-            <ChatMessage 
-              message="Hello! How can i help you?" 
-              sender="robot" 
-            />
-            <ChatMessage 
-              message="can you get me todays date?" 
-              sender="user" 
-            />
-            <ChatMessage 
-              message="Today is September 27" 
-              sender="robot" 
-            />
-          </>
-        ); </br>
-  } </br>
+✔️ Fragment: In Reactjs, we use it to group elements together. It helps us not to have extra div, if we don’t. </br>

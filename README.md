@@ -40,3 +40,4 @@ Props, is the short form for properties. </br>
 Using the “props object” we can access our attribute & also make our components reusable. </br>
 
 ✔️ShortCuts Commonly Used In Reactjs ? </br>
+ Some “shortcuts” that are commonly used in React, they include </br>

@@ -47,5 +47,5 @@ Some “shortcuts” that are commonly used in React, they include </br>
 
 
 
-**STATE, EVENT HANDLERS, CREATE THE CHATBOT FEATURES - LESSON 3** </br>
-
+**STATE, EVENT HANDLERS - LESSON 3** </br>
+What Is State ?  State is a built-in object that allows components to store and manage dynamic data that changes over time. State helps us make a website interative.

@@ -1,6 +1,7 @@
 **MASTERING REACTJS COURSE WITH EXCERCISES** <br/>
 
 
+REACT BASICs, JSX
 ✔️ What is Reactjs ?  </br>
 React is an external library that helps us create websites easier. </br>
 
@@ -46,4 +47,4 @@ Some “shortcuts” that are commonly used in React, they include </br>
 
 
 
-STATE, EVENT HANDLERS, CREATE THE CHATBOT FEATURES - LESSON 3 </br>
+**STATE, EVENT HANDLERS, CREATE THE CHATBOT FEATURES - LESSON 3** </br>

@@ -63,5 +63,5 @@ In modern React, the useState hook is used to add state to functional components
 This mechanism allows components to be dynamic and interactive , reacting to changes without a full page refresh. </br>
 
 ✔️ Differences Between “State” And “useState”?  </br>
-State: State is a core concept. It refers to the data or properties that a component needs to remember overtime. </br>
-The data can always change based on user interactions or network responses, and when it does, React re-renders the component to update the user interface. </br>
+State: State is a core concept. It refers to the data or properties that a component needs to remember overtime. The data can always change based on user interactions or network responses, and when it does, React re-renders the component to update the user interface. </br>
+useState: useState is a specific tool(a Hook) provided by React to manage that concept within functional components to use State. </br>

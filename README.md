@@ -56,3 +56,5 @@ State is a built-in object that allows components to store and manage dynamic da
 When a component state changes (usually in response to users input or an API call),  React automatically re-renders the component to reflect the new data in the UI. </br>
 
 NOTE: Keep in mid that in React (State) , anything that starts with “use” , is typically refered to as a Hook (e.g useState) </br>
+
+✔️ What Is useState? </br>

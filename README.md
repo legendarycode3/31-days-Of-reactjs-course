@@ -66,3 +66,4 @@ This mechanism allows components to be dynamic and interactive , reacting to cha
 State: State is a core concept. It refers to the data or properties that a component needs to remember overtime. The data can always change based on user interactions or network responses, and when it does, React re-renders the component to update the user interface. </br>
 useState: useState is a specific tool(a Hook) provided by React to manage that concept within functional components to use State. </br>
 To use the “useState” , you call the “useState” within a functional components to declare a state variable ,. It returns an array  containing (the following 2 properties): </br>
+1. The current state value. </br>

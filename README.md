@@ -68,3 +68,5 @@ useState: useState is a specific tool(a Hook) provided by React to manage that c
 To use the “useState” , you call the “useState” within a functional components to declare a state variable ,. It returns an array  containing (the following 2 properties): </br>
 1. The current state value. </br>
 2. The function to update that value (which triggers a re-render). </br>
+
+“In Summary”, useState is the mechanism for adding  the concept of  “state” to a modern functional component. </br>

@@ -88,4 +88,5 @@ Change the appearance of the website. We can use Css in React.js ,the normal way
 Some Ways We Can Use CSS With React.js:- Here are the primary ways to use CSS in React, they include: </br>
 
 1.) External CSS Files(Standard Method): </br>
-2.) This method is similar to traditional HTML development. Styles are defined in separate .css files and imported into the relevant component file. </br>
+This method is similar to traditional HTML development. Styles are defined in separate .css files and imported into the relevant component file. </br>
+Best For: Global styles and large components. </br>

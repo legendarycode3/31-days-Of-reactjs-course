@@ -71,3 +71,7 @@ To use the “useState” , you call the “useState” within a functional comp
 2. The function to update that value (which triggers a re-render). </br>
 
 “In Summary”, useState is the mechanism for adding  the concept of  “state” to a modern functional component. </br>
+
+
+
+✔️ What Is Event Handler ?  </br> 

@@ -60,6 +60,7 @@ NOTE: Keep in mid that in React (State) , anything that starts with “use” , 
 ✔️ What Is useState? </br>
  The useState hook in React allows functional components to have State. Which is local memory for data that needs to change over time or across user interaction. </br>
 In modern React, the useState hook is used to add state to functional components. </br>
+- useState hook, for managing state. </br>
 This mechanism allows components to be dynamic and interactive , reacting to changes without a full page refresh. </br>
 
 ✔️ Differences Between “State” And “useState”?  </br>

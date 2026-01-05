@@ -75,3 +75,4 @@ To use the “useState” , you call the “useState” within a functional comp
 
 
 ✔️ What Is Event Handler ?  </br> 
+Event Handler lets us run a function when we interact with the website.  </br>

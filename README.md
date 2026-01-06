@@ -91,3 +91,4 @@ Some Ways We Can Use CSS With React.js:- Here are the primary ways to use CSS in
 This method is similar to traditional HTML development. Styles are defined in separate .css files and imported into the relevant component file. </br>
 Best For: Global styles and large components. </br>
 Pros: Familiar syntax, separation of concerns. </br>
+Cons: Styles are global and can cause naming conflicts across different components in large applications. </br>

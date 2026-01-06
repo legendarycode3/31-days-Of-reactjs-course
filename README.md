@@ -106,3 +106,4 @@ Cons: Requires a specific file naming convention (.module.css), and dynamic styl
 
 4.) Styled Components (CSS-in-JS): </br>
 This library allows you to write actual CSS in your JavaScript using tagged template literals, creating components with styles embedded within them. </br>
+Libraries like styled-components allow you to write actual CSS code directly within your JavaScript files using tagged template literals.  </br>

@@ -94,3 +94,4 @@ Pros: Familiar syntax, separation of concerns. </br>
 Cons: Styles are global and can cause naming conflicts across different components in large applications. </br>
 
 2.) Inline Styles: </br>
+Internal CSS styling are suitable for styles that are unique to a single page. They are defined within the <style> tag. </br>

@@ -108,3 +108,4 @@ Cons: Requires a specific file naming convention (.module.css), and dynamic styl
 This library allows you to write actual CSS in your JavaScript using tagged template literals, creating components with styles embedded within them. </br>
 Libraries like styled-components allow you to write actual CSS code directly within your JavaScript files using tagged template literals.  </br>
 Best For:  Encapsulated, reusable, styleable components. </br>
+Pros: Enables dynamic styling using JavaScript logic (props and state), automatically generates unique class names for scoping, and keeps styles and component logic in one place. </br>

@@ -95,3 +95,4 @@ Cons: Styles are global and can cause naming conflicts across different compone
 
 2.) Inline Styles: </br>
 Internal CSS styling are suitable for styles that are unique to a single page. They are defined within the <style> tag. </br>
+You can apply styles directly to elements using the style attribute, which accepts a JavaScript object where keys are camelCase CSS properties. </br>  

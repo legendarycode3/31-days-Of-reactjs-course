@@ -103,3 +103,5 @@ This approach uses standard CSS files but automatically scopes class names local
 Best For: Preventing naming conflicts in large projects.. </br>
 Pros: Uses familiar CSS syntax, avoids global scope issues, and works well for component-specific styles. </br>
 Cons: Requires a specific file naming convention (.module.css), and dynamic styling based on component props is more complex than with CSS-in-JS libraries. </br>
+
+4.) Styled Components (CSS-in-JS): </br>

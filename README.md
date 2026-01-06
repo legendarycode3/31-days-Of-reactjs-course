@@ -102,3 +102,4 @@ Best For:  simple, one-off cases.
 This approach uses standard CSS files but automatically scopes class names locally to the component they are imported into, preventing naming conflicts and style overrides. </br>
 Best For: Preventing naming conflicts in large projects.. </br>
 Pros: Uses familiar CSS syntax, avoids global scope issues, and works well for component-specific styles. </br>
+Cons:

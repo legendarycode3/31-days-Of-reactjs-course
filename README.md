@@ -92,3 +92,5 @@ This method is similar to traditional HTML development. Styles are defined in se
 Best For: Global styles and large components. </br>
 Pros: Familiar syntax, separation of concerns. </br>
 Cons: Styles are global and can cause naming conflicts across different components in large applications. </br>
+
+2.) Inline Styles: </br>

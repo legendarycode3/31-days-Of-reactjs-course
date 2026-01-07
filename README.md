@@ -119,3 +119,4 @@ Cons: Can make the markup look cluttered; requires setup and configuration. 
 Can lead to verbose HTML markup, has a steep learning curve if unfamiliar with the utility-first concept, and customization beyond its core utilities may require additional CSS. 
 
 5.) Internal Style: </br>
+NOTE:In React.js , we use className (to set the class),  that’s becus , </br>

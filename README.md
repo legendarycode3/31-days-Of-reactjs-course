@@ -111,3 +111,4 @@ Best For:  Encapsulated, reusable, styleable components. </br>
 Pros: Enables dynamic styling using JavaScript logic (props and state), automatically generates unique class names for scoping, and keeps styles and component logic in one place. </br>
 
 5.) Tailwind CSS(Utility First framework): </br>
+A utility-first CSS framework that provides a vast set of pre-defined utility classes directly in your JSX markup. </br>

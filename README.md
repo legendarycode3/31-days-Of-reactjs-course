@@ -113,4 +113,5 @@ Pros: Enables dynamic styling using JavaScript logic (props and state), automat
 5.) Tailwind CSS(Utility First framework): </br>
 A utility-first CSS framework that provides a vast set of pre-defined utility classes directly in your JSX markup. </br>
 Tailwind CSS provides a vast set of pre-defined utility classes that you apply directly to your elements in the JSX. </br>
-Pros: Speeds up development, minimizes the need for writing custom CSS files. </br>
+Pros: Speeds up development, minimizes the need for writing custom CSS files. 
+Accelerates development and promotes design consistency by using a fixed set of classes, is highly customizable, and purges unused styles for small file sizes in production. </br>

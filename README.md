@@ -124,3 +124,4 @@ i.  React, is actually just javascript code. </br>
 ii.  And Javascript already have a feature called class. </br>
 iii.  So class, is a reserved word. </br>
 NOTE: Best Practices (in General) for Any Approach: 
+Regardless of the chosen method, following general best practices will improve maintainability and scalability: 

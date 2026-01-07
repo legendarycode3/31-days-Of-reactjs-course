@@ -123,3 +123,4 @@ NOTE:In React.js , we use className (to set the class),  that’s becus , </br>
 i.  React, is actually just javascript code. </br>
 ii.  And Javascript already have a feature called class. </br>
 iii.  So class, is a reserved word. </br>
+NOTE: Best Practices (in General) for Any Approach: 

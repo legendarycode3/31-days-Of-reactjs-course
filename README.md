@@ -116,3 +116,4 @@ Tailwind CSS provides a vast set of pre-defined utility classes that you apply d
 Pros: Speeds up development, minimizes the need for writing custom CSS files. 
 Accelerates development and promotes design consistency by using a fixed set of classes, is highly customizable, and purges unused styles for small file sizes in production. </br>
 Cons: Can make the markup look cluttered; requires setup and configuration. 
+Can lead to verbose HTML markup, has a steep learning curve if unfamiliar with the utility-first concept, and customization beyond its core utilities may require additional CSS. 

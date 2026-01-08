@@ -134,3 +134,4 @@ For most use cases beyond simple dynamic values(in-line styling), using external
 and separation of concerns than strictly inline styles. </br>
 
 ✔️ Hooks ?  One of the important features in Reactjs.  </br>
+Hooks lets us insert “React” features into our component. </br>

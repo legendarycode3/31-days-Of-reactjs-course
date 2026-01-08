@@ -143,3 +143,4 @@ Reactjs , has other hooks we can use in a project (e.g useState() , useEffect() 
 
 1. useEffect() Hook: </br>
 This hook is used for handling side effects like data fetching. </br>
+- This hook lets us run some code after the component is created or updated.  </br>

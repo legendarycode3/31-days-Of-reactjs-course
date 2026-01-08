@@ -126,3 +126,4 @@ iii.  So class, is a reserved word. </br>
 NOTE: Best Practices (in General) for Any Approach: 
 Regardless of the chosen method, following general best practices will improve maintainability and scalability: </br>
 a) Ultimately, CSS Modules provide a balanced, scalable solution without requiring a third-party library </br>
+b) while Styled Components offer powerful dynamic styling capabilities. </br>

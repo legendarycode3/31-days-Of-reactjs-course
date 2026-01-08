@@ -142,3 +142,4 @@ E.g const [inputText, setInputText] = React.useState(‘’); </br>
 Reactjs , has other hooks we can use in a project (e.g useState() , useEffect() , useRef() and more ) </br>
 
 1. useEffect() Hook: </br>
+This hook is used for handling side effects like data fetching. </br>

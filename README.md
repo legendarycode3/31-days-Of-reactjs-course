@@ -137,3 +137,5 @@ and separation of concerns than strictly inline styles. </br>
 Hooks lets us insert “React” features into our component. </br>
 Hooks, are special functions in react, that allows you tap into react features (e.g like “state management”) </br>
  Meanwhile, we have actually used “hooks”  before , React.useState()  is a hook </br>
+
+E.g const [inputText, setInputText] = React.useState(‘’); </br>

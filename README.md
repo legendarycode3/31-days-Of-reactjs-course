@@ -130,4 +130,7 @@ b) while Styled Components offer powerful dynamic styling capabilities. </br>
 c) Tailwind CSS excels at rapid prototyping and development speed. </br>
 
 The right choice depends on your project's specific context…..  </br>
-	For most use cases beyond simple dynamic values(in-line styling), using 			external CSS files or CSS modules provides better style management and 			separation of concerns than strictly inline styles. </br>
+For most use cases beyond simple dynamic values(in-line styling), using external CSS files or CSS modules provides better style management 
+and separation of concerns than strictly inline styles. </br>
+
+✔️ Hooks ?  One of the important features in Reactjs.  </br>

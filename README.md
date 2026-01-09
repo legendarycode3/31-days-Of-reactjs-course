@@ -164,3 +164,4 @@ is a performance optimization tool that caches (memoizes) the result of an expen
 For optimizing callback function.
 
 6. useReducer() Hook: </br>
+The useReducer() Hook is a powerful alternative to useState() in React used for managing more complex state logic.  </br>

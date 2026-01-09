@@ -159,5 +159,8 @@ Is used for sharing  data across somponents. </br>
 
 4.  useMemo() Hook :- </br>
 is a performance optimization tool that caches (memoizes) the result of an expensive calculation and reuses the cached value unless its dependencies change. </br>
-4. useCallback() Hook: </br>
+
+5. useCallback() Hook: </br>
 For optimizing callback function.
+
+6. useReducer() Hook: </br>

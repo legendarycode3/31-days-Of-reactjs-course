@@ -153,3 +153,5 @@ It lets use control when useEffects runs”, useEffect() will only run once. </b
 2. useRef() Hook: </br>
 Automaticallly save an HTML element from the component.  This code, will create a “ref”. </br>
 A ref is a container with spacial React features. </br>
+
+3. useContext() Hook: 

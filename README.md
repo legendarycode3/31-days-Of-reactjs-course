@@ -151,3 +151,4 @@ If you give useEffect(), an empty array [] - which is called a “dependency arr
 It lets use control when useEffects runs”, useEffect() will only run once. </br>
 
 2. useRef() Hook: </br>
+Automaticallly save an HTML element from the component.  This code, will create a “ref”. </br>

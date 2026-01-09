@@ -148,3 +148,4 @@ It allows you to perform side effects in functional components, such as data fet
  It runs after the component has rendered and the browser has updated the screen.  </br>
 - useEffect(), lets us do things outside of just displaying stuff on the screen (e.g like fetching data from the server, or doing some cleanup after the data has been rendered). </br>
 If you give useEffect(), an empty array [] - which is called a “dependency array.  
+It lets use control when useEffects runs”, useEffect() will only run once. </br>

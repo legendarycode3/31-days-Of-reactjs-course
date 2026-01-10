@@ -166,3 +166,5 @@ For optimizing callback function.
 6. useReducer() Hook: </br>
 The useReducer() Hook is a powerful alternative to useState() in React used for managing more complex state logic.  </br>
 It centralizes the state management logic into a single, separate function called a reducer, which makes the code more predictable, maintainable, and testable.  </br>
+
+7. useTransition() Hook:  </br>

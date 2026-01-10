@@ -172,3 +172,9 @@ User interactions and keeps the application responsive. </br>
 NOTE:   Things to note about using “Hooks”, they include:  </br>
 i. Always put your “Hook” at the Top of your component . </br>
 ii. Hooks should not be inside anything. (e.g never put inside a “if-statement” , inside a function) </br>
+
+
+
+
+
+➡️  **PROPER REACT SET-UP - LESSON 4**  </br>

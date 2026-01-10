@@ -169,3 +169,4 @@ It centralizes the state management logic into a single, separate function calle
 
 7. useTransition() Hook:  </br>
 User interactions and keeps the application responsive. </br>
+NOTE:  

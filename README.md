@@ -178,3 +178,4 @@ ii. Hooks should not be inside anything. (e.g never put inside a “if-statement
 
 
 ➡️  **PROPER REACT SET-UP - LESSON 4**  </br>
+✔️ Proper React Setup : 

@@ -171,4 +171,4 @@ It centralizes the state management logic into a single, separate function calle
 User interactions and keeps the application responsive. </br>
 NOTE:   Things to note about using “Hooks”, they include:  </br>
 i. Always put your “Hook” at the Top of your component . </br>
-   . Hooks should not be inside anything.  </br>
+ii. Hooks should not be inside anything. (e.g never put inside a “if-statement” , inside a function) </br>

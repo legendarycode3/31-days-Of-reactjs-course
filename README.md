@@ -182,5 +182,7 @@ ii. Hooks should not be inside anything. (e.g never put inside a “if-statement
 NOTE: To create this “React” , we need to review the following 2 key notes. </br>
 1.  Reviewing The CommandLines() using it on VSCode terminal:  They include: </br>
     mkdir  =  make directory (A directory is another name for a “folder”).
-    Make diectory creates a new folder.
+    Make diectory creates a new folder. </br>
+    E.g  mkdir test </br>
+    pwd    =   Print the  work directory / folder. 
 3.  

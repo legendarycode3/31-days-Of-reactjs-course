@@ -191,4 +191,4 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
      node    =  This command lets us run JavaScript code outside  of the browser. </br>
       Used to execute JavaScript code outside of a web browser. </br>
       It is the primary tool for running Node.js scripts and interacting with the Node.js environment. </br>
-      npm    =  The command stands for  Node Package Manager. </br>
+      npm    =  The command stands for  Node Package Manager. A “package” is basically a library .  </br>

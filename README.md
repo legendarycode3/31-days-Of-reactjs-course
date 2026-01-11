@@ -180,4 +180,6 @@ ii. Hooks should not be inside anything. (e.g never put inside a “if-statement
 ➡️  **PROPER REACT SET-UP - LESSON 4**  </br>
 ✔️ Proper React Setup : Will let us split up our codes (e.g javascript, React, Css) into different files and folder. </br>
 NOTE: To create this “React” , we need to review the following 2 key notes. </br>
-1.  Reviewing The CommandLines() using it on VSCode terminal: </br> 
+1.  Reviewing The CommandLines() using it on VSCode terminal:  They include: </br>
+    mkdir  =  make directory (A directory is another name for a “folder”). 
+2.  

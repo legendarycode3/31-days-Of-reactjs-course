@@ -188,3 +188,4 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
     cd  =   Change directory. Allows us to change the current working directory / folder. </br>
     Cd  ..  =   It is used to move up one level in the directory / folder hierarchy  (.. represents the outer folder or directory). It is used to get-out of a folder. </br>
 2.  Reviewing Nodejs (some) using it on VSCode terminal:  They include: </br>
+     node    =  This command lets us run JavaScript code outside  of the browser. </br>

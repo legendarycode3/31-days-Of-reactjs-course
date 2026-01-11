@@ -185,4 +185,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
     Make diectory creates a new folder. </br>
     E.g  mkdir test </br>
     pwd    =   Print the  work directory / folder.  It  displays the full absolutely path of the directory  you are currently in.
+    cd  =   Change directory.
 3.  

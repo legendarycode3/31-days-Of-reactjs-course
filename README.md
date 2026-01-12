@@ -198,4 +198,4 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
   - npm run dev   =  Starts up our new React Website (when we created it using the npx create-vite) </br>
   - npm create vite@latest  my-react-app   =  For creating a new React app. </br>
    https://vite.dev/guide/ </br>
-  - npm run dev how it works  =
+  - npm run dev how it works  = “npm run”  tells the computer to look inside  package.json for a section called “scripts” for “dev” and run the command on the right side of “dev” (which is vite). </br>

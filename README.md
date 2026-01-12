@@ -195,3 +195,4 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
      So therefore, npm , lets us install external libraries (or packages) into our project. </br>
      E.g  npm install legendarycode </br>
   - npm install   =  Contains the list of packages needed for a particular project folder </br>
+  - npm run dev   =  Starts up our new React Website (when we created it using the npx create-vite) </br>

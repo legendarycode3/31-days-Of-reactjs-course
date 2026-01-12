@@ -193,4 +193,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
       It is the primary tool for running Node.js scripts and interacting with the Node.js environment. </br>
    - npm    =  The command stands for  Node Package Manager. A “package” is basically a library .  </br>
      So therefore, npm , lets us install external libraries (or packages) into our project. </br>
-     E.g  npm install legendarycode
+     E.g  npm install legendarycode </br>
+  - npm install   =  Contains the list of packages needed for a particular project folder </br>

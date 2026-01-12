@@ -200,4 +200,4 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
    https://vite.dev/guide/ </br>
   - npm run dev how it works  = “npm run”  tells the computer to look inside  package.json for a section called “scripts” for “dev” and run the command on the right side of “dev” (which is vite). </br>
   NOTE: package.json contains all the “list of packages needed for a particular project folder” </br>
-  - So when you type npm install (on the terminal , on the folder you want which was just  </br>
+  - So when you type npm install (on the terminal , on the folder you want which was just created) it going to install all of the packages the same time(when you just created a proper react setup).   </br>

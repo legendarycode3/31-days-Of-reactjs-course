@@ -199,3 +199,4 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
   - npm create vite@latest  my-react-app   =  For creating a new React app. </br>
    https://vite.dev/guide/ </br>
   - npm run dev how it works  = “npm run”  tells the computer to look inside  package.json for a section called “scripts” for “dev” and run the command on the right side of “dev” (which is vite). </br>
+NOTE: 

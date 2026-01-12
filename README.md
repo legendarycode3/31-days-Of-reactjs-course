@@ -202,3 +202,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
   NOTE: package.json contains all the “list of packages needed for a particular project folder” </br>
   - So when you type npm install (on the terminal , on the folder you want which was just created) it going to install all of the packages the same time(when you just created a proper react setup).   </br>
   - After this is done, all of the packages will be downloaded on node_modules folder. </br>
+
+  Below Are SomeFiles Found In Reactjs (when Newly Created Projects): </br>

@@ -221,4 +221,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
 
 - package.json contains all the “list of packages needed for a particular project folder”. </br>
   Package.json contains the meta-data of our project (such as it: “name”, “scripts”, “dependencies”)
-  The “dev” : “vite” -  the script starts the development server. </br>
+  The “dev” : “vite” -  the script starts the development server. </br> 
+  The “build”: “vite build” - the script create the production build. </br>

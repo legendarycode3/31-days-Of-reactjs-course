@@ -218,3 +218,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
 - package-lock.json , has a list of packages that we need to install to run the Reactjs (newly created Vite project) </br>
   package-lock.json , saves the version numbers of all the packages that we installed. 
   Npm automatically updates package-lock.json , so we don’t need to change any file on it. </br>
+
+- package.json contains all the “list of packages needed for a particular project folder”. </br>

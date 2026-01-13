@@ -223,3 +223,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
   Package.json contains the meta-data of our project (such as it: “name”, “scripts”, “dependencies”)
   The “dev” : “vite” -  the script starts the development server. </br> 
   The “build”: “vite build” - the script create the production build. </br>
+
+- README.md  This is just text, it provides more information about the project.  </br>

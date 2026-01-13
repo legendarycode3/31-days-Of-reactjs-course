@@ -224,4 +224,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
   The “dev” : “vite” -  the script starts the development server. </br> 
   The “build”: “vite build” - the script create the production build. </br>
 
-- README.md  This is just text, it provides more information about the project.  </br>
+- README.md  This is just text, it provides more information about the project.  
+  It is not code, it is just forinformational purposes (don’t need to be changed). </br>

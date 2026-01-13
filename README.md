@@ -204,7 +204,9 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
   - After this is done, all of the packages will be downloaded on node_modules folder. </br>
 
   Below Are SomeFiles Found In Reactjs (when Newly Created Projects): </br>
-  .gitignore file, allows developers to specify which files and directories should be excluded from version control (Git).  
+  - .gitignore file, allows developers to specify which files and directories should be excluded from version control (Git).  
    This helps keep repositories tidy, preventing sensitive information from being exposed , and ensures that only essential files are tracked. 
    This file tells git which files and folders to ignore when pushing your code. 
    E.g node_modules, .env , should never be pushed to github </br>
+
+ - eslint Highlights problems in our JavaScript Code. </br>

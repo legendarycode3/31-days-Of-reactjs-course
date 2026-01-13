@@ -211,4 +211,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
 
  - eslint Highlights problems in our JavaScript Code. </br>
    EG. Lets say you mistakely mispelled something when writing code in VSCode. 
-   VSCode will not show you the error, but eslint will indentify the error for you when you install it, the extension.
+   VSCode will not show you the error, but eslint will indentify the error for you when you install it, the extension. </br>
+   A good tool that highlights problem in our javascript tool. 

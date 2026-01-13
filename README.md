@@ -216,4 +216,5 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
    eslint.config.js  Is a config file used to define the rule s and settings for ESLINT. </br>
 
 - package-lock.json , has a list of packages that we need to install to run the Reactjs (newly created Vite project) </br>
- package-lock.json , saves the version numbers of all the packages that we installed. 
+  package-lock.json , saves the version numbers of all the packages that we installed. 
+  Npm automatically updates package-lock.json , so we don’t need to change any file on it. </br>

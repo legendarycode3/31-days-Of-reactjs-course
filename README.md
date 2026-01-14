@@ -240,4 +240,4 @@ This file “Sets-up react”. </br>
 It calls Create root, gives it a container and then renders the <App /> component onto the website. </br> 
 It is the entry point of your React app.  Where react is rendered into the DOM. </br>
 
-- <StrictMode> : This is a special component provided by react. 
+- StrictMode : This is a special component provided by react. 

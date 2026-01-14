@@ -231,3 +231,4 @@ This file contains the information about the project (like: how to run it, what 
 - vite.config.js : Configures Vite. </br>
 Vite is the tool that we use to setup a particular project. </br>
 Vite also helps us build a Website (it takes all the javascript and css and then load then into the html file). </br>
+Vite also creates a server.  A server puts our websiteat a URL (localhost:5173).

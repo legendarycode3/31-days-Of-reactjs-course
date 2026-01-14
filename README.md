@@ -229,3 +229,4 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
 This file contains the information about the project (like: how to run it, what the project those & other documentation). </br>
 
 - vite.config.js : Configures Vite. </br>
+Vite is the tool that we use to setup a particular project. </br>

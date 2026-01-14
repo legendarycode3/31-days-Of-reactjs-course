@@ -228,4 +228,4 @@ NOTE: To create this “React” , we need to review the following 2 key notes. 
   It is not code, it is just forinformational purposes (don’t need to be changed). </br>
 This file contains the information about the project (like: how to run it, what the project those & other documentation). </br>
 
-- vite.config.js
+- vite.config.js : Configures Vite. </br>

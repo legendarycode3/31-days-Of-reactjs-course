@@ -236,3 +236,4 @@ Vite server  is a replacement for the “Live Server” we normally use to refre
 vite.config.js file allows us to customize the build process, (such as “adding plugins”, “configuring server settings” & more). </br>
 
 - main.jsx :
+This file “Sets-up react”. </br>

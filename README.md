@@ -234,3 +234,5 @@ Vite also helps us build a Website (it takes all the javascript and css and then
 Vite also creates a server.  A server puts our websiteat a URL (localhost:5173).
 Vite server  is a replacement for the “Live Server” we normally use to refresh some code. </br>
 vite.config.js file allows us to customize the build process, (such as “adding plugins”, “configuring server settings” & more). </br>
+
+- main.jsx :

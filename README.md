@@ -238,4 +238,4 @@ vite.config.js file allows us to customize the build process, (such as “adding
 - main.jsx :
 This file “Sets-up react”. </br>
 It calls Create root, gives it a container and then renders the <App /> component onto the website. </br> 
-It is the entry point of your React app. </br>
+It is the entry point of your React app.  Where react is rendered into the DOM. </br>

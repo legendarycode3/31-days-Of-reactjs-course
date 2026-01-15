@@ -251,4 +251,4 @@ Strict Mode basically gives us some additional checks and warnings when developi
 
 - App.css : Is the styling part specifically for the App.jsx </br>
 
-- npm run lint : 
+- npm run lint : Is the command that runs eslint. 

@@ -245,4 +245,4 @@ Strict Mode basically gives us some additional checks and warnings when developi
 
 - node_modules : Contains all the installed dependencies for the project. </br>
   
-- public (folder):  
+- public (folder):    Contains static assets (like images, icons, and other files that don’t need to go through vite bundler).

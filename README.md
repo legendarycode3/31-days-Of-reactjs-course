@@ -247,4 +247,4 @@ Strict Mode basically gives us some additional checks and warnings when developi
   
 - public (folder):    Contains static assets (like images, icons, and other files that don’t need to go through vite bundler). </br>
 
-- src (folder):
+- src (folder):   This is where your React components and javascript logic goes. </br>

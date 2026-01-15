@@ -251,4 +251,5 @@ Strict Mode basically gives us some additional checks and warnings when developi
 
 - App.css : Is the styling part specifically for the App.jsx </br>
 
-- npm run lint : Is the command that runs eslint.  EsLint checks our project file, and give us the current list of EsLint errors.
+- npm run lint : Is the command that runs eslint.  EsLint checks our project file, and give us the current list of EsLint errors. </br>
+E.G you can go to App.jsx and make a typo error on App to Ap , to see the error when you rerun the command.

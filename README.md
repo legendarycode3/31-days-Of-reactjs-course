@@ -243,4 +243,6 @@ It is the entry point of your React app.  Where react is rendered into the DOM. 
 - StrictMode : This is a special component provided by react. 
 Strict Mode basically gives us some additional checks and warnings when developing our App. </br>
 
-- node_modules : Contains all the installed dependencies for the project.
+- node_modules : Contains all the installed dependencies for the project. </br>
+  
+- public (folder):  

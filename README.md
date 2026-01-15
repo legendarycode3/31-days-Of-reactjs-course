@@ -241,4 +241,6 @@ It calls Create root, gives it a container and then renders the <App /> componen
 It is the entry point of your React app.  Where react is rendered into the DOM. </br>
 
 - StrictMode : This is a special component provided by react. 
-Strict Mode basically gives us some additional checks and warnings when developing our App.
+Strict Mode basically gives us some additional checks and warnings when developing our App. </br>
+
+- node_modules :

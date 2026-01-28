@@ -10,6 +10,7 @@ maintained by Meta (formerly Facebook) and a large community of developers and
 companies.  </br>
 React is primarily used for developing dynamic, single-page applications (SPAs), where
 content can be updated without a full page reload, providing a faster and more seamless
+user experience.  </br>
 
 
 ✔️ What is JSX ? </br> </br>

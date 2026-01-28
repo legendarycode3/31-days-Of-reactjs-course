@@ -9,6 +9,8 @@ library for building user interfaces (UIs) based on individual, reusable compone
 maintained by Meta (formerly Facebook) and a large community of developers and
 companies.  </br>
 React is primarily used for developing dynamic, single-page applications (SPAs), where
+content can be updated without a full page reload, providing a faster and more seamless
+
 
 ✔️ What is JSX ? </br> </br>
 Javascript XML Is a syntax extension for javascript that allows developers to write HTML -like markup directly within  their Javascript code. </br>

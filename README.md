@@ -5,6 +5,7 @@
 ✔️ What is Reactjs ?  </br>
 React is an external library that helps us create websites easier. </br> 
 React.js (also known as React or ReactJS) is an open-source, front-end JavaScript
+library for building user interfaces (UIs) based on individual, reusable components. It is
 
 ✔️ What is JSX ? </br> </br>
 Javascript XML Is a syntax extension for javascript that allows developers to write HTML -like markup directly within  their Javascript code. </br>

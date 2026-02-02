@@ -15,7 +15,8 @@ user experience.  </br>
 
 ✔️ What is JSX ? </br> </br>
 Is a syntax extension to JavaScript commonly used in the
-React framework that allows developers to write HTML-like markup directly within their </br>
+React framework that allows developers to write HTML-like markup directly within their 
+JavaScript code. It is not valid JavaScript that browsers can read directly, so it must be </br>
 Javascript XML Is a syntax extension for javascript that allows developers to write HTML -like markup directly within  their Javascript code. </br>
 JSX looks very similar to HTML but it is not (becus it has different syntax). </br>
 

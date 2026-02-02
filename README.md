@@ -45,6 +45,7 @@ NOTE: We can have  “components” inside of a component. It helps us split our
 ✔️ What is Props ?  </br>
 In Reactjs, props (short for properties) are a mechanism for passing data from a
 parent component down to a child component. 
+ They are essentially arguments passed to components, 
 Every “component function”, gets one parameter called props. </br>
 The “props”  parameter is an object and it will contain all the attributes that we give to any component.  </br>
 Props, is the short form for properties. </br>

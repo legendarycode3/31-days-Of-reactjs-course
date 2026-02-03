@@ -45,6 +45,7 @@ Components lets us create our own  HTML elements. </br>
 
 NOTE: We can have  “components” inside of a component. It helps us split our website , into smaller & smaller components or smaller and smaller pieces. </br>
 ✔️ Fragment: In Reactjs, we use it to group elements together. It helps us not to have extra div, if we don’t. </br>
+Fragment is a feature that allows you to group a list of multiple child elements 
 
 ✔️ What is Props ?  </br>
 In Reactjs, props (short for properties) are a mechanism for passing data from a

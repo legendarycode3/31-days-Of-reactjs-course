@@ -47,6 +47,7 @@ NOTE: We can have  “components” inside of a component. It helps us split our
 ✔️ Fragment: In Reactjs, we use it to group elements together. It helps us not to have extra div, if we don’t. </br>
 Fragment is a feature that allows you to group a list of multiple child elements 
 from a component without adding an extra, unnecessary node (like a <div> or <span>)
+to the DOM. This helps in keeping the DOM structure clean, improving performance, and
 
 ✔️ What is Props ?  </br>
 In Reactjs, props (short for properties) are a mechanism for passing data from a

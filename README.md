@@ -95,6 +95,7 @@ To use the “useState” , you call the “useState” within a functional comp
 “In Summary”, useState is the mechanism for adding  the concept of  “state” to a modern functional component. </br>
 
 ✔️ What Is Event Handler ?  </br> 
+Event handlers in React.js are functions you use to manage user interactions, such
 Event Handler lets us run a function when we interact with the website.  </br>
 In React, “Event handlers” we use to manage user interactions, like clicking , typing, or hovering , making your UI dynamic. </br>
 Event Handlers , are declared directly in the JSX using a camalCase naming convention (e.g., onClick instead of onclick), and a function is passed as the handler’s value , not a string. </br>
